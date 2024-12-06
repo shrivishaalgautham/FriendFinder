@@ -1,0 +1,38 @@
+			Accuracy	Purity
+Milestone 1
+	Testcase1	100		100
+	Testcase2	100		100
+	Testcase3	100		100
+	Testcase4	100		100
+		
+		
+			Accuracy	Purity
+Milestone 2
+	Testcase1	100		100
+	Testcase2	100		100
+	Testcase3	100		100
+	Testcase4	100		100
+
+
+			Accuracy	Purity
+Milestone 3
+	Testcase1	100		100
+	Testcase2	100		100
+	Testcase3	100		100
+	Testcase4	100		100
+
+
+			Accuracy	Purity
+Milestone 4
+	Testcase1	100		100
+	Testcase2	100		100
+	Testcase3	100		100
+	Testcase4	100		100
+
+
+			Accuracy	Purity
+Milestone 5
+	Testcase1	100		100
+	Testcase2	100		100
+	Testcase3	99.96		99.99
+	Testcase4	99.96		100

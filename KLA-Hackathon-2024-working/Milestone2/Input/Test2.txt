@@ -1,0 +1,4 @@
+WaferDiameter:40
+DieSize:10x10
+DieShiftVector:(8,8)
+ReferenceDie:(15,15)
